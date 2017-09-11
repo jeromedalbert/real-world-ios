@@ -1,0 +1,68 @@
+[submodule "apps/swift-2048"]
+	path = apps/swift-2048
+	url = git@github.com:austinzheng/swift-2048.git
+	branch = master
+[submodule "apps/Yep"]
+	path = apps/Yep
+	url = git@github.com:CatchChat/Yep.git
+	branch = master
+[submodule "apps/VPNOn"]
+	path = apps/VPNOn
+	url = git@github.com:lexrus/VPNOn.git
+	branch = master
+[submodule "apps/FlappySwift"]
+	path = apps/FlappySwift
+	url = git@github.com:fullstackio/FlappySwift.git
+	branch = master
+[submodule "apps/Signal-iOS"]
+	path = apps/Signal-iOS
+	url = git@github.com:WhisperSystems/Signal-iOS.git
+	branch = master
+[submodule "apps/DesignerNewsApp"]
+	path = apps/DesignerNewsApp
+	url = git@github.com:MengTo/DesignerNewsApp.git
+	branch = master
+[submodule "apps/wire-ios"]
+	path = apps/wire-ios
+	url = git@github.com:wireapp/wire-ios.git
+	branch = master
+[submodule "apps/eidolon"]
+	path = apps/eidolon
+	url = git@github.com:artsy/eidolon.git
+	branch = master
+[submodule "apps/TSWeChat"]
+	path = apps/TSWeChat
+	url = git@github.com:hilen/TSWeChat.git
+	branch = master
+[submodule "apps/SwiftHN"]
+	path = apps/SwiftHN
+	url = git@github.com:Dimillian/SwiftHN.git
+[submodule "apps/Dunk"]
+	path = apps/Dunk
+	url = git@github.com:naoyashiga/Dunk.git
+[submodule "apps/Charter"]
+	path = apps/Charter
+	url = git@github.com:matthewpalmer/Charter.git
+[submodule "apps/Swift-Radio-Pro"]
+	path = apps/Swift-Radio-Pro
+	url = git@github.com:swiftcodex/Swift-Radio-Pro.git
+[submodule "apps/PixPic"]
+	path = apps/PixPic
+	url = git@github.com:Yalantis/PixPic.git
+[submodule "apps/WordPress-iOS"]
+	path = apps/WordPress-iOS
+	url = git@github.com:wordpress-mobile/WordPress-iOS.git
+	branch = master
+[submodule "apps/youtube-iOS"]
+	path = apps/youtube-iOS
+	url = git@github.com:aslanyanhaik/youtube-iOS.git
+[submodule "apps/firefox-ios"]
+	path = apps/firefox-ios
+	url = git@github.com:mozilla-mobile/firefox-ios.git
+	branch = master
+[submodule "apps/SoundCloudSwift"]
+	path = apps/SoundCloudSwift
+	url = git@github.com:pepibumur/SoundCloudSwift.git
+[submodule "apps/gulps"]
+	path = apps/gulps
+	url = git@github.com:FancyPixel/gulps.git
